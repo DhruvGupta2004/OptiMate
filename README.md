@@ -1,16 +1,37 @@
-# opti_mate
+<img width="629" alt="image" src="https://github.com/user-attachments/assets/ec9da58c-3189-436a-a32b-64ca51707b0c" />
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/6a53f535-e990-4ffa-85b8-21ed596885cd" />
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/7c6dbf1c-21bd-49cd-a20d-7f2a6283db9b" />
 
-A new Flutter project.
 
-## Getting Started
+Manage inventory -------
 
-This project is a starting point for a Flutter application.
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/c9afb805-9894-46a6-b720-d6dcda9067bf" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Customer Section ---------
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/e14ad595-073f-4d3f-a12b-4fc771702087" />
+
+
+Genarate Bill -----------
+
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/aab5339f-1e40-4324-b9e8-7a07d371e2da" />
+
+
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/b5690ff3-51c5-4c6f-9fb0-2b6417c48928" />
+
+
+Report Section ----------
+
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/0e47da45-267e-4078-b4a3-c00aca6a839d" />
+
+
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/c2467ac4-cce3-47d1-a23e-9147e4165a73" />
+
+
+
+
+
+
+
+

@@ -48,6 +48,6 @@
 
 ## 🖼️ UI Snapshots
 
-<img src="https://github.com/user-attachments/assets/ec9da58c-3189-436a-a32b-64ca51707b0c" width="600" />  
 <img src="https://github.com/user-attachments/assets/6a53f535-e990-4ffa-85b8-21ed596885cd" width="400" />  
 <img src="https://github.com/user-attachments/assets/7c6dbf1c-21bd-49cd-a20d-7f2a6283db9b" width="400" />
+<img src="https://github.com/user-attachments/assets/ec9da58c-3189-436a-a32b-64ca51707b0c" width="600" />  
